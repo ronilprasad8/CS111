@@ -1,4 +1,3 @@
-```markdown
 # C++ Coursework Assignments
 
 This repository contains C++ programming assignments completed as part of the **Bachelor of Software Engineering** program at the **University of the South Pacific**. It showcases practical applications of fundamental and intermediate C++ concepts, including control structures, file handling, arrays, and memory management.
